@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: Home
-tags: appsecnz
+tags: trial
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---
